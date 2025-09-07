@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emission-calc/static/css/main.fa86ba94.css",
+    "main.js": "/emission-calc/static/js/main.e16f563f.js",
+    "index.html": "/emission-calc/index.html",
+    "main.fa86ba94.css.map": "/emission-calc/static/css/main.fa86ba94.css.map",
+    "main.e16f563f.js.map": "/emission-calc/static/js/main.e16f563f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa86ba94.css",
+    "static/js/main.e16f563f.js"
+  ]
+}
