@@ -4,7 +4,7 @@ A React web application for scenario-based transport and emissions calculation. 
 
 ## 🌐 Live Demo
 
-**View the live application:** [https://umaraslam66.github.io/emission-calc](https://umaraslam66.github.io/emission-calc)
+**View the live application:** [https://umaraslam66.github.io/emissioncalc](https://umaraslam66.github.io/emissioncalc)
 
 ## 🎯 Features
 
