@@ -2,6 +2,10 @@
 
 A React web application for scenario-based transport and emissions calculation. This tool helps logistics decision-makers create, edit, and compare transport scenarios to make informed decisions about cost and environmental impact. Features interactive maps, comprehensive visualizations, and dummy data based on the Hissmofors case study.
 
+## 🌐 Live Demo
+
+**View the live application:** [https://umaraslam66.github.io/emission-calc](https://umaraslam66.github.io/emission-calc)
+
 ## 🎯 Features
 
 - **Interactive Map Visualization**: See transport routes on an interactive map with different transport modes
