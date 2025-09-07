@@ -1,0 +1,15 @@
+{
+  "name": "transport-emissions-calculator",
+  "version": "1.0.0",
+  "description": "Scenario-based transport and emissions calculator for logistics decision making",
+  "main": "frontend/src/index.js",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "install": "cd frontend && npm install",
+    "test": "cd frontend && npm test"
+  },
+  "keywords": ["transport", "emissions", "logistics", "calculator", "scenarios", "react", "frontend"],
+  "author": "Transport Calculator Team",
+  "license": "MIT"
+}
